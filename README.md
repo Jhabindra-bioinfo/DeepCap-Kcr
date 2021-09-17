@@ -4,4 +4,4 @@ Please feel free to contact me if you need any further information and help, ema
 
 We used python version 3.7.4 and keras version 2.2.4 using TensorFlow backend
 
-We have also a web-based application for predicting Kcr sites at the following link: http://nsclbio.jbnu.ac.kr/DeepCap-Kcr/
+
