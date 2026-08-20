@@ -7,15 +7,6 @@ The model integrates convolutional feature extraction, sequential learning, and 
 
 This repository provides **Python/Jupyter notebooks, datasets, pretrained model weights, prediction scripts, visualization tools, and interpretability analyses** used in the published study.
 
----
-
-## Workflow
-
-
-<img width="617" height="248" alt="image" src="https://github.com/user-attachments/assets/3396f3ad-392a-4810-9cef-91cd11e9920f" />
-**Figure:** Overview of the DeepCap-Kcr architecture.
-
----
 
 ## Overview
 
@@ -36,6 +27,8 @@ DeepCap-Kcr integrates:
 ---
 
 ## Model Architecture
+
+<img width="617" height="248" alt="image" src="https://github.com/user-attachments/assets/3396f3ad-392a-4810-9cef-91cd11e9920f" />
 
 Each protein sequence is represented as a **31-amino-acid sequence window**, with the target lysine residue located at the center.
 
