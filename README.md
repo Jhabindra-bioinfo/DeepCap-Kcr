@@ -11,9 +11,9 @@ This repository provides **Python/Jupyter notebooks, datasets, pretrained model 
 
 ## Workflow
 
-<img width="1079" alt="DeepCap-Kcr architecture" src="DeepCap-Kcr_architecture.png" />
-<img width="617" height="248" alt="image" src="https://github.com/user-attachments/assets/3396f3ad-392a-4810-9cef-91cd11e9920f" />
 
+<img width="617" height="248" alt="image" src="https://github.com/user-attachments/assets/3396f3ad-392a-4810-9cef-91cd11e9920f" />
+**Figure:** Overview of the DeepCap-Kcr architecture.
 
 ---
 
@@ -322,42 +322,6 @@ five_fold_model_weights/
 
 ---
 
-## Independent Testing
-
-Independent test evaluation can be performed using:
-
-```text
-independent test.ipynb
-```
-
----
-
-## Prediction
-
-Prediction can be performed using:
-
-```text
-predictions.ipynb
-```
-
-or:
-
-```text
-predictions.py
-```
-
----
-
-## Visualization
-
-Model feature visualization and representation analysis are available in:
-
-```text
-visualizations.ipynb
-```
-
----
-
 ## In-Silico Mutagenesis
 
 DeepCap-Kcr also provides an **in-silico mutagenesis analysis** to investigate the contribution of individual amino acids.
@@ -436,20 +400,12 @@ If you use DeepCap-Kcr in your research, please cite:
 
 For questions, issues, or collaboration inquiries, please contact:
 
-📧 **[91979@ncc.re.kr](mailto:91979@ncc.re.kr)**
+📧 **jhabindra@jbnu.ac.kr or jbkkor2014@gmail.com**
 
-**Jhabindra Khanal, Ph.D.**
-Assistant Professor
-Department of Cancer AI & Digital Health
-National Cancer Center Graduate School of Cancer Science and Policy
-National Cancer Center, Republic of Korea
-
-GitHub:
-https://github.com/Jhabindra-bioinfo
 
 ---
 
-**Figure:** Overview of the DeepCap-Kcr architecture.
+
 
 ---
 
